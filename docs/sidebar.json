@@ -2,6 +2,7 @@
   "deck_of_cards": {
     "Overview": "/",
     "Card": "card.html",
-    "module name here": "core.html"
+    "module name here": "core.html",
+    "Deck": "deck.html"
   }
 }
